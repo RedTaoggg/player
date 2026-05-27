@@ -26,7 +26,7 @@
             sayHi(){
                 alert("我出现了！！！")
                 console.log(11111)
-                console.log('自定义文档')
+                console.log('自定义文档1111')
             }
         }
     }
