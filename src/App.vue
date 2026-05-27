@@ -20,6 +20,9 @@
             },
             sayHi111(){
                 alert("修复bug")
+            },
+            sayHi111(){
+                alert("修复bug2")
             }
         }
     }
