@@ -3,7 +3,7 @@
  * @Author: guohongtao12@jd.com
  * @Date: 2026-05-27 10:35:34
  * @LastEditors: guohongtao12@jd.com
- * @LastEditTime: 2026-05-27 11:18:02
+ * @LastEditTime: 2026-05-27 14:56:01
  * @FilePath: /player/src/App.vue
 -->
 <template>
@@ -28,6 +28,15 @@
                 console.log(11111)
                 console.log('自定义文档111133333')
                 console.log('自定义文档111122222')
+            },
+            sayHi111(){
+                alert("修复bug")
+            },
+            sayHi111(){
+                alert("修复bug2")
+            },
+            sayHi1113(){
+                alert("修复bug4")
             }
         }
     }
