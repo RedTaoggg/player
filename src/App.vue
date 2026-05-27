@@ -17,6 +17,9 @@
         methods:{
             sayHi(){
                 alert("我出现了！！！")
+            },
+            sayHi111(){
+                alert("修复bug")
             }
         }
     }
