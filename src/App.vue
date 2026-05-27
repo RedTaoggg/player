@@ -23,6 +23,9 @@
             },
             sayHi111(){
                 alert("修复bug2")
+            },
+            sayHi1113(){
+                alert("修复bug4")
             }
         }
     }
