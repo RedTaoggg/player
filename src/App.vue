@@ -3,7 +3,7 @@
  * @Author: guohongtao12@jd.com
  * @Date: 2026-05-27 10:35:34
  * @LastEditors: guohongtao12@jd.com
- * @LastEditTime: 2026-05-27 11:06:43
+ * @LastEditTime: 2026-05-27 11:18:02
  * @FilePath: /player/src/App.vue
 -->
 <template>
@@ -26,7 +26,8 @@
             sayHi(){
                 alert("我出现了！！！")
                 console.log(11111)
-                console.log('自定义文档1111')
+                console.log('自定义文档111133333')
+                console.log('自定义文档111122222')
             }
         }
     }
