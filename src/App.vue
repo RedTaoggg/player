@@ -1,11 +1,3 @@
-<!--
- * @Descripttion: 
- * @Author: guohongtao12@jd.com
- * @Date: 2026-05-27 10:35:34
- * @LastEditors: guohongtao12@jd.com
- * @LastEditTime: 2026-05-27 11:06:43
- * @FilePath: /player/src/App.vue
--->
 <template>
     <div>
         <!--<input type="button" value="点我试试"
@@ -25,8 +17,6 @@
         methods:{
             sayHi(){
                 alert("我出现了！！！")
-                console.log(11111)
-                console.log('自定义文档')
             }
         }
     }
